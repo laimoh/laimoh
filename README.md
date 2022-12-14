@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laimoh
 - 👀 I’m interested in experimental frontend, poetic code and data viz
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : @lai.moh, laimoh.com
 
 <!---
